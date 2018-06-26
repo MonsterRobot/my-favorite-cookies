@@ -26,8 +26,8 @@ body {
 }
  
 .textContainer {
-  float: left;
-  width: 300px;
+  float: right;
+  width: 250px;
   margin-left: 20px;
   margin-top: 20px;
 }
@@ -46,7 +46,7 @@ h1 {
 p, li {
   font-family: 'Roboto', sans-serif;
   font-size: 22px;
-  color: #977B72;
+  color: #978B72;
 }
 
 
